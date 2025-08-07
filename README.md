@@ -3,6 +3,11 @@
 ## Overview
 This repository contains the code and resources for an interactive sales dashboard built for Adidas, analyzing 2020–2021 US sales data. The project transforms approximately 9,600 rows of transaction data into actionable insights using Microsoft Excel. The dashboard, styled with Adidas branding, uncovers trends in product performance, regional sales, and seasonal patterns to support data-driven decision-making.
 
+### 📊 Dashboard Preview  
+![Adidas Sales Dashboard](https://github.com/afolabisamueloluwaseun6-coder/Adidas-performance/blob/main/WEEK%202.png?raw=true)
+
+
+
 
 ## Problem Statement
 How can Adidas optimize its US sales strategy to maximize revenue and profit across products, regions, retailers, and sales channels?
